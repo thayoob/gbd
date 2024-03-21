@@ -4,36 +4,21 @@
    * colors
    */
 
- /* Dark gray */
- --st-patricks-blue: hsl(210, 12%, 15%);
- /* Light gray */
- --amaranth-purple: hsl(0, 0%, 95%);
- /* Deep blue */
- --royal-blue-dark: hsl(230, 20%, 15%);
- /* Dark gold */
- --chrome-yellow: hsl(45, 90%, 25%);
- /* Dark slate gray */
- --space-cadet-1: hsl(220, 20%, 15%);
- /* Slate gray */
- --space-cadet-2: hsl(220, 20%, 20%);
- /* Light sky blue */
- --winter-sky_50: hsla(200, 80%, 70%, 0.5);
- /* Medium gray */
- --purple-navy: hsl(240, 10%, 40%);
- /* Deep purple */
- --ksu-purple: hsl(280, 30%, 25%);
- /* Light blue */
- --winter-sky: hsl(200, 80%, 70%);
- /* Moderate pink */
- --razzmatazz: hsl(330, 70%, 65%);
- /* Light platinum */
- --platinum: hsl(0, 0%, 95%);
- /* Dark gray */
- --black_70: hsla(0, 0%, 0%, 0.7);
- /* Gold */
- --rajah: hsl(45, 100%, 70%);
- /* White */
- --white: hsl(0, 0%, 100%);
+   --st-patricks-blue: hsl(236, 57%, 28%);
+   --amaranth-purple: hsl(335, 88%, 38%);
+   --royal-blue-dark: hsl(231, 68%, 21%);
+   --chrome-yellow: hsl(39, 100%, 52%);
+   --space-cadet-1: hsl(230, 41%, 25%);
+   --space-cadet-2: hsl(230, 59%, 16%);
+   --winter-sky_50: hsla(335, 87%, 53%, 0.5);
+   --purple-navy: hsl(236, 26%, 43%);
+   --ksu-purple: hsl(275, 54%, 33%);
+   --winter-sky: hsl(335, 87%, 53%);
+   --razzmatazz: hsl(335, 87%, 51%);
+   --platinum: hsl(0, 0%, 90%);
+   --black_70: hsla(0, 0%, 0%, 0.7);
+   --rajah: hsl(29, 99%, 67%);
+   --white: hsl(0, 0%, 100%); 
 
   --gradient-1: linear-gradient(90deg,var(--royal-blue-dark) 0,var(--ksu-purple) 51%,var(--royal-blue-dark));
   --gradient-2: linear-gradient(90deg,var(--razzmatazz) ,var(--rajah));
